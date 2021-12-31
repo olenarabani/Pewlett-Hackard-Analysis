@@ -7,8 +7,11 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 There are more people retiring than there are potential mentors, which means that the company would have to create an efficient program that can cover the disparity between the number of people retiring and the number of people who can be trained to fill these positions.
 
 ![This is an image](https://github.com/olenarabani/Pewlett-Hackard-Analysis/blob/main/images/retirement_titles.png)
+
 ![This is an image](https://github.com/olenarabani/Pewlett-Hackard-Analysis/blob/main/images/unique_titles.png)
+
 ![This is an image](https://github.com/olenarabani/Pewlett-Hackard-Analysis/blob/main/images/retiring_titles.png)
+
 ![This is an image](https://github.com/olenarabani/Pewlett-Hackard-Analysis/blob/main/images/mntorship_elegibility.png)
 
 ## Summary:
